@@ -1,0 +1,39 @@
+{
+  "name": "ramda",
+  "main": "dist/ramda.js",
+  "version": "0.22.1",
+  "homepage": "https://github.com/ramda/ramda",
+  "authors": [
+    "(Scott Sauyet <scott@sauyet.com>)",
+    "(Michael Hurley <mh@buzzdecafe.com>)",
+    "(David Chambers <dc@davidchambers.me>)"
+  ],
+  "description": "A practical functional library for Javascript programmers.",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "functional"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples",
+    "logo"
+  ],
+  "_release": "0.22.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.22.1",
+    "commit": "015dd5bd1e2613130a179efde821aefac71e29f3"
+  },
+  "_source": "https://github.com/ramda/ramda.git",
+  "_target": "0.22.1",
+  "_originalSource": "ramda"
+}
